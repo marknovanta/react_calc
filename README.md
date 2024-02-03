@@ -1,5 +1,5 @@
 # React Calc
-A simple calculator made with React for React basic course by Meta.
+A simple calculator made with React for React basics course by Meta.
 
 # How to use it
 It requires npm installed.
